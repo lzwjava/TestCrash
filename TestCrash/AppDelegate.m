@@ -18,9 +18,8 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
     [AVOSCloudCrashReporting enable];
-    [AVOSCloud setApplicationId:@"x3o016bxnkpyee7e9pa5pre6efx2dadyerdlcez0wbzhw25g" clientKey:@"057x24cfdzhffnl3dzk14jh9xo2rq6w1hy1fdzt5tv46ym78"];
+    [AVOSCloud setApplicationId:@"ohqhxu3mgoj2eyj6ed02yliytmbes3mwhha8ylnc215h0bgk" clientKey:@"6j8fuggqkbc5m86b8mp4pf2no170i5m7vmax5iypmi72wldc"];
     
     return YES;
 }
